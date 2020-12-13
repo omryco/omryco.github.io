@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-My name is Omry. I'm in love with myself, so I made this website.
+My name is Omry. 
